@@ -1,0 +1,9 @@
+fastapi==0.111.0
+uvicorn==0.30.1
+streamlit==1.35.0
+psycopg[binary]
+requests==2.32.3
+beautifulsoup4
+pandas
+scikit-learn
+python-dotenv
